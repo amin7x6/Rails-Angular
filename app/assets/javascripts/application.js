@@ -11,5 +11,9 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require bootstrap/dist/js/bootstrap
+//= require angular
+//= require angular-ui-router
+//= require angular-rails-templates
 //= require turbolinks
 //= require_tree .
